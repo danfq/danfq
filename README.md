@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=danfq&color=e91e63)
 # Basics
 Hi!
 
