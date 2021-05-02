@@ -3,7 +3,7 @@ Hi!
 
 My name is Daniel, but I prefer Dan, and I'm a 20 year old Dev from Portugal.
 
-I'm an aspiring Mobile Developer, currently certified in Kotlin and taking a course on Flutter, in order to go Multi-Platform!
+I'm a Mobile Developer, currently certified in Kotlin and taking a course on Flutter, in order to go Multi-Platform!
 <br>If you need help with Kotlin projects, I'm available!
 
 # Projects
