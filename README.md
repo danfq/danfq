@@ -1,5 +1,4 @@
-![](https://komarev.com/ghpvc/?username=danfq&color=e91e63)
-# Basics
+# Basics ![](https://komarev.com/ghpvc/?username=danfq&color=e91e63)
 Hi!
 
 My name is Daniel, but I prefer Dan, and I'm a 20 year old Dev from Portugal.
