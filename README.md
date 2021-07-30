@@ -1,7 +1,7 @@
 # Basics ![](https://komarev.com/ghpvc/?username=danfq&color=e91e63)
 Hi!
 
-My name is Daniel, but I prefer Dan, and I'm a 20 year old Dev from Portugal.
+My name is Daniel, but I prefer Dan, and I'm a 21 year old Dev from Portugal.
 
 I'm a Mobile Developer, currently certified in Kotlin and taking a course on Flutter, in order to go Multi-Platform!
 <br>If you need help with Kotlin projects, I'm available!
@@ -20,7 +20,7 @@ In a future update, a new feature will be available - 'Zen' - designed to help p
 
 # Requests
 Feeling creative, but not in the mood to do it yourself? Don't worry, I can help.
-<br>You can send me a Request <a href="mailto:danfq@gmail.com?subject=Project Idea">here</a>.
+<br>You can send me a Request <a href="mailto:danfq.dev@gmail.com?subject=Project Idea">here</a>.
 
 # Social Networks
 You can find me on the following Social Networks:
