@@ -1,7 +1,7 @@
 # Basics ![](https://komarev.com/ghpvc/?username=danfq&color=e91e63)
 Hi!
 
-My name is Daniel, but I prefer Dan, and I'm a 21 year old Dev from Portugal.
+My name is Daniel, but I prefer Dan, and I'm a 22 year old Dev from Portugal.
 
 I'm a Mobile Developer, currently certified in Kotlin and Flutter.
 
