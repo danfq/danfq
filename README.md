@@ -1,27 +1,23 @@
 # Basics ![](https://komarev.com/ghpvc/?username=danfq&color=e91e63)
 Hi!
 
-My name is Daniel, but I prefer Dan, and I'm a 23 year old Dev from Portugal.
+My name is Dan, and I'm a 23 year old Dev from Portugal.
 
-I'm a Mobile Developer, currently certified in Kotlin and Flutter.
+I'm a Mobile Developer, currently certified in Flutter.
 
 # Work
-<br>I am open to any freelancing jobs that may require an extra hand - check <a href="#contact">Contact</a>.
+I am open to any freelancing jobs that may require an extra hand - check <a href="#contact">Contact</a>.
 
-# Projects
-### I'm Okay
-I'm the developer behind '<a href="https://play.google.com/store/apps/details?id=io.github.danfq.imokay" target="_blank">I'm Okay</a>', which is also an Android App (for now 😉), designed for people with Anxiety and/or Depression, providing relaxing sounds, in order to help them handle any crisis and/or episode.
-In a future update, a new feature will be available - 'Zen' - designed to help people fall asleep more easily and in a more relaxed state, using sounds from TIDE.
-
-# Requests
+# Projects & Requests
 Feeling creative, but not in the mood to do it yourself? Don't worry, I can help.
-<br>You can send me a Request <a href="mailto:danfq.dev@gmail.com?subject=Project Idea">here</a>.
+<br>You can send me a Request <a href="mailto:dan@danfq.dev?subject=Project Idea">here</a>.
 
 # Social Networks
 You can find me on the following Social Networks:
 
 - <a target="_blank" href="https://twitter.com/danfq_dev">Twitter</a>.
+- <a target="_blank" href="https://www.instagram.com/danfq.dev">Instagram</a>.
 - <a target="_blank" href="https://www.linkedin.com/in/DanFQ/">LinkedIn</a>.
 
 # Contact
-You can contact me via my E-mail: <a href="mailto:danfq.dev@gmail.com" target="_blank">danfq.dev@gmail.com</a>, as well as via my Twitter, found in <a href="#social-networks">Social Networks</a>.
+You can contact me via my E-mail: <a href="mailto:dan@danfq.dev" target="_blank">danfq.dev@gmail.com</a>, as well as via my Twitter, found in <a href="#social-networks">Social Networks</a>.
