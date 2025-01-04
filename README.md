@@ -13,7 +13,7 @@ Feeling creative, but not in the mood to do it yourself? Don't worry, I can help
 <br>You can send me a Request <a href="mailto:dan@danfq.dev?subject=Project Idea">here</a>.
 
 # Contact
-You can contact me via my E-mail: <a href="mailto:danfq.dev@proton.me" target="_blank">danfq.dev@proton.me</a>, as well as via my Twitter, found in <a href="#social-networks">Social Networks</a>.
+You can contact me via my E-mail: <a href="mailto:danfq.dev@proton.me" target="_blank">danfq.dev@proton.me</a>, as well as via Social Networks, below.
 
 # Social Networks
 You can find me on the following Social Networks:
