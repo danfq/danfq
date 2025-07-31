@@ -3,7 +3,8 @@ Hi!
 
 My name is Dan, and I'm a 24 year old Dev from Portugal.
 
-I'm a Mobile Developer, currently certified in Flutter.
+I'm a Mobile Developer, currently certified in Flutter.<br>
+I am now learning NextJS and React Native.
 
 # Work
 I am open to any freelancing jobs that may require an extra hand - check <a href="#contact">Contact</a>.
