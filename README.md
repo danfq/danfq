@@ -1,7 +1,7 @@
 # Basics ![](https://komarev.com/ghpvc/?username=danfq&color=e91e63)
 Hi!
 
-My name is Dan, and I'm a 24 year old Dev from Portugal.
+My name is Dan, and I'm a 25 year old Dev from Portugal.
 
 I'm a Mobile Developer, currently certified in Flutter.<br>
 I am now learning NextJS and React Native.
@@ -22,3 +22,4 @@ You can find me on the following Social Networks:
 - <a target="_blank" href="https://twitter.com/danfq_dev">Twitter</a>.
 - <a target="_blank" href="https://www.instagram.com/danfq.dev">Instagram</a>.
 - <a target="_blank" href="https://www.linkedin.com/in/DanFQ/">LinkedIn</a>.
+- <a target="_blank" href="https://wonderful.dev/danfq">Wonderful</a>.
