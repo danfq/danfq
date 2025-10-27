@@ -1,4 +1,8 @@
-# Basics ![](https://komarev.com/ghpvc/?username=danfq&color=e91e63)
+![](https://komarev.com/ghpvc/?username=danfq&color=e91e63)
+
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
+
+# Basics
 Hi!
 
 My name is Dan, and I'm a 25 year old Dev from Portugal.
