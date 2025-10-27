@@ -1,0 +1,33 @@
+name: Update Age in README
+
+on:
+  schedule:
+    # Runs once a year, on May 21st, at 00:00 (midnight) UTC.
+    # This ensures your age has definitely incremented the day after your birthday.
+    - cron: '0 0 21 05 *'
+  workflow_dispatch: # Allows you to manually trigger the workflow from the GitHub UI
+
+jobs:
+  update-age:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4 # Checks out your repository code
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18' # Or any recent stable Node.js version you prefer
+          
+      - name: Run age update script
+        run: node update-age.js # Assumes update-age.js is in the root. Adjust path if needed.
+      
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          # Only commit if there are actual changes
+          git commit -m "Automated: Update age to ${{ steps.run_script.outputs.age }}" || echo "No age change needed this year."
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
