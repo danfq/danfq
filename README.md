@@ -11,7 +11,8 @@ I am open to any freelancing jobs that may require an extra hand - check <a href
 # Projects & Requests
 
 ## Current Projects
-I'm currently working on [Atoll]()
+- [Atoll](https://github.com/danfq/Atoll): a macOS app that enables the power that the Notch should've had from the start!
+- [Elysium](https://github.com/ElysiumEQ): a macOS app that gives the User raw power over their system's Audio Engine! Parametric EQ, per-app Volume Control - and more!
 
 ## Requests
 Feeling creative, but not in the mood to do it yourself? Don't worry, I can help.
