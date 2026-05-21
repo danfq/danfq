@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 // IMPORTANT: Replace with your actual birthdate in YYYY-MM-DD format!
-const birthDate = new Date('1995-10-27');
+const birthDate = new Date('2000-05-21');
 const today = new Date();
 
 let age = today.getFullYear() - birthDate.getFullYear();
