@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=danfq&color=e91e63) [![wakatime](https://wakatime.com/badge/user/23bcc26c-ebf7-4d4f-b8e1-d48e56469be1.svg)](https://wakatime.com/@23bcc26c-ebf7-4d4f-b8e1-d48e56469be1)
 
 # Basics
-Hi! My name is Dan, and I'm a <!-- START_AGE -->25<!-- END_AGE --> year old Dev from Portugal.
+Hi! My name is Dan, and I'm a <!-- START_AGE -->30<!-- END_AGE --> year old Dev from Portugal.
 
 I'm currently certified in Flutter, and am now learning NextJS, React Native and Swift / SwiftUI.
 
