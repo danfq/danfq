@@ -3,7 +3,7 @@
 # Basics
 Hi! My name is Dan, and I'm a <!-- START_AGE -->26<!-- END_AGE --> year old Dev from Portugal.
 
-I'm currently certified in Flutter, and am now learning NextJS, React Native and Swift / SwiftUI.
+I mainly work with React, Astro and Swift. Now learning Rust!
 
 # Work
 I am open to any freelancing jobs that may require an extra hand - check <a href="#contact">Contact</a>.
@@ -11,7 +11,7 @@ I am open to any freelancing jobs that may require an extra hand - check <a href
 # Projects & Requests
 
 ## Current Projects
-- [Atoll](https://github.com/danfq/Atoll): a macOS app that enables the power that the Notch should've had from the start!
+- [Atoll](https://github.com/Atoll-Labs/Atoll): a macOS app that enables the power that the Notch should've had from the start!
 - [Elysium](https://github.com/ElysiumEQ): a macOS app that gives the User raw power over their system's Audio Engine! Parametric EQ, per-app Volume Control - and more!
 
 ## Requests
